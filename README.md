@@ -1,5 +1,3 @@
-<h1>Hi 👋, I'm Nader Mamdouh</h1>
-<p>i'm a Software Engineer with hands-on experience in building and deploying end-to-end web applications, especially in the healthtech, e-commerce, and education sectors. Skilled in both front-end and back-end development using modern frameworks like React, Node.js, Laravel, and Next.js. Proven ability to design and implement scalable systems from scratch, solve complex problems, and collaborate effectively in remote and hybrid environments. Strong academic foundation with a degree in Computer and Artificial Intelligence and a record of delivering high-impact projects for universities and startups. </p>
 <h1 align="center">Hi 👋! I'm Nader Mamdouh</h1>
 
 ###
@@ -147,15 +145,3 @@
 <img src="https://raw.githubusercontent.com/nadermamdouh068/nadermamdouh068/output/snake.svg" alt="Snake animation" />
 
 ###
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/nadermamdouh">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-<p>
-<a href="https://www.ko-fi.com/nadermamdouh">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
-</a>
-</p>
-</p>
